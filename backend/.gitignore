@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+data/virufy_raw/
+data/coughvid_raw/
+*.zip
